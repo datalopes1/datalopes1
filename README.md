@@ -22,5 +22,5 @@ Neste projeto será feito o processo de limpeza e manipulação a partir do data
 ### 📺 [ETL com Python - Caso Netflix](https://github.com/datalopes1/netflix-case)
 Neste projeto parte do Bootcamp squad.io, foram realizados processos de ETL (Extract, Transform, Load) com base em tabelas de registro da Netflix.
 
-- **Problema de negócio**: Diariamente vários arquivos .xlsx de diversas origens e foram de padrão chegam e não estão prontos para serem trabalhados em Dashboards.
+- **Problema de negócio**: Diariamente vários arquivos .xlsx de diversas origens e fora de padrão chegam e não estão prontos para serem trabalhados em Dashboards.
 - **Objetivo**: Unificar os arquivo .xlsx em um .csv único, e manter os padrões de rastreabilidade e confiabilidade. 
