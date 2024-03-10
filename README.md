@@ -1,6 +1,6 @@
 # 🧑‍💻 André Lopes
 ## 🚀 Sobre mim
-Atualmente corretor de imóveis e busco uma transição de carreira para a área de dados. Sou graduado em Engenharia de Produção pela Unicatólica de Quixadá, e sempre fui apaixonado por entender como os dados levam a decisões de negócio acertadas. 
+Atualmente trabalho como corretor de imóveis e busco uma transição de carreira para a área de dados. Sou graduado em Engenharia de Produção pela Unicatólica de Quixadá, e sempre fui apaixonado por entender como os dados levam a decisões de negócio acertadas. 
 ### 🔗 Contato 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://sites.google.com/view/portfolioandreluizls1)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreluizls1/)
@@ -19,3 +19,8 @@ Neste projeto será feito o processo de limpeza e manipulação a partir do data
 
 - **Problema de negócio**: O dataset utilizado é resultado de um processo de webscrapping, e naturalmente os dados não estão limpos.
 - **Objetivo**: Realizar o processo de explorar, limpar e manipular os dados para gerar um novo dataset. 
+### 📺 [ETL com Python - Caso Netflix](https://github.com/datalopes1/netflix-case)
+Neste projeto parte do Bootcamp squad.io, foram realizados processos de ETL (Extract, Transform, Load) com base em tabelas de registro da Netflix.
+
+- **Problema de negócio**: Diariamente vários arquivos .xlsx de diversas origens e foram de padrão chegam e não estão prontos para serem trabalhados em Dashboards.
+- **Objetivo**: Unificar os arquivo .xlsx em um .csv único, e manter os padrões de rastreabilidade e confiabilidade. 
