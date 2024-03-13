@@ -14,6 +14,11 @@ Atualmente trabalho como corretor de imóveis e busco uma transição de carreir
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 ## 🏙️ Projetos
+### 👷 [EDA - Industrial Safety and Health Analytics Dabase](https://github.com/datalopes1/safety_eda)
+Neste projeto será realizado o processo de EDA (Exploratory Data Analysis) a partir do dataset Industrial Safety and Health Analytics Dabase, que pode ser encontrado no Kaggle, com licensa CC0: Public Domain e enviado por Eduardo Magalhães Oliveira.
+
+- **Problema de negócio**: Não é fácil encontrar datasets de plantas industriais do mundo real, com o intuito de alertar sobre a urgência da necessidade das industrias buscarem entender as razões por trás de acidentes e lesões com seus colaboradores, Eduado Magalhães Oliveira compartilhou este dataset para serem extraídos insights e análises que possam ajudar nessa conscientização.
+- **Objetivo**: Explorar os dados, e entender os fatores envolvidos nos acidentes de trabalho.
 ### ⚽ [Limpeza e Manipulação de Dados com Dataset FIFA 21](https://github.com/datalopes1/fifa21_datacleaning)
 Neste projeto será feito o processo de limpeza e manipulação a partir do dataset FIFA 21 messy, raw dataset for cleaning/ exploring, que pode ser encontrado no Kaggle, com licensa CC0: Public Domain e enviado por Rachit Toshniwal.
 
