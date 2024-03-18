@@ -19,6 +19,11 @@ Neste projeto será realizado o processo de EDA (Exploratory Data Analysis) a pa
 
 - **Problema de negócio**: Não é fácil encontrar datasets de plantas industriais do mundo real, com o intuito de alertar sobre a urgência da necessidade das industrias buscarem entender as razões por trás de acidentes e lesões com seus colaboradores, Eduado Magalhães Oliveira compartilhou este dataset para serem extraídos insights e análises que possam ajudar nessa conscientização.
 - **Objetivo**: Explorar os dados, e entender os fatores envolvidos nos acidentes de trabalho.
+### 💽 [EDA - Data Science Salaries 2024](https://github.com/datalopes1/ds_salaries2024_eda)
+Neste projeto será realizado o processo de EDA (Exploratory Data Analysis) a partir do dataset Data Science Salaries 2024, que pode ser encontrado no [Kaggle](https://www.kaggle.com/datasets/sazidthe1/data-science-salaries/data), com licensa [Database: Open Database](https://opendatacommons.org/licenses/dbcl/1-0/) e enviado por [Sazidul Islam](https://www.kaggle.com/sazidthe1). 
+
+- **Problema de negócio**: Com dados de vagas de emprego entre 2020 e 2024 o dataset consiste em vagas postadas no site ai-jobs.ai e serve de pananorama para exploração do estado da empregabilidade na área de Data Science.
+- **Objetivo**: Analisar e explorar os dados para compreender as especialidades na área e a progressão de carreira.
 ### ⚽ [Limpeza e Manipulação de Dados com Dataset FIFA 21](https://github.com/datalopes1/fifa21_datacleaning)
 Neste projeto será feito o processo de limpeza e manipulação a partir do dataset FIFA 21 messy, raw dataset for cleaning/ exploring, que pode ser encontrado no Kaggle, com licensa CC0: Public Domain e enviado por Rachit Toshniwal.
 
