@@ -19,8 +19,13 @@ Neste projeto será realizado o processo de EDA (Exploratory Data Analysis) a pa
 
 - **Problema de negócio**: Não é fácil encontrar datasets de plantas industriais do mundo real, com o intuito de alertar sobre a urgência da necessidade das industrias buscarem entender as razões por trás de acidentes e lesões com seus colaboradores, Eduado Magalhães Oliveira compartilhou este dataset para serem extraídos insights e análises que possam ajudar nessa conscientização.
 - **Objetivo**: Explorar os dados, e entender os fatores envolvidos nos acidentes de trabalho.
+### 🏪[Análise RFV (Recência Frequência Valor) - Retail Sales Data](https://github.com/datalopes1/warehouse_rfv/)
+Neste projeto será realizada uma análise do tipo RFV (Recência, Frequência e Valor) com dados que encontrei neste video no Youtube do canal Jie Jenn.
+
+- **Problema de negócio**: O time de marketing de uma rede varejistas que faz entregas internacionais precisa segmentar os clientes para fazer campanhas e melhorar o relacionamento com eles.
+- **Objetivo**: Realizar uma análise RFV (Recência, Frequência e Valor) para segmentar os clientes utilizando o algoritmo KMeans. 
 ### 💽 [EDA - Data Science Salaries 2024](https://github.com/datalopes1/ds_salaries2024_eda)
-Neste projeto será realizado o processo de EDA (Exploratory Data Analysis) a partir do dataset Data Science Salaries 2024, que pode ser encontrado no [Kaggle](https://www.kaggle.com/datasets/sazidthe1/data-science-salaries/data), com licensa [Database: Open Database](https://opendatacommons.org/licenses/dbcl/1-0/) e enviado por [Sazidul Islam](https://www.kaggle.com/sazidthe1). 
+Neste projeto será realizado o processo de EDA (Exploratory Data Analysis) a partir do dataset Data Science Salaries 2024, que pode ser encontrado no Kaggle, com licensa Database: Open Database e enviado por Sazidul Islam. 
 
 - **Problema de negócio**: Com dados de vagas de emprego entre 2020 e 2024 o dataset consiste em vagas postadas no site ai-jobs.ai e serve de pananorama para exploração do estado da empregabilidade na área de Data Science.
 - **Objetivo**: Analisar e explorar os dados para compreender as especialidades na área e a progressão de carreira.
