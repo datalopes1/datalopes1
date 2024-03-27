@@ -14,11 +14,11 @@ Atualmente trabalho como corretor de imóveis e busco uma transição de carreir
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 ## 🏙️ Projetos
-### 👷 [EDA - Industrial Safety and Health Analytics Dabase](https://github.com/datalopes1/safety_eda)
-Neste projeto será realizado o processo de EDA (Exploratory Data Analysis) a partir do dataset Industrial Safety and Health Analytics Dabase, que pode ser encontrado no Kaggle, com licensa CC0: Public Domain e enviado por Eduardo Magalhães Oliveira.
+### 🏦 [Churn Analysis - Bank Customer Churn Dataset](https://github.com/datalopes1/bankabc_churn/)
+Neste projeto será realizado o processo de EDA (Exploratory Data Analysis) com foco na análise de Churn a partir do datas ser Bank Customer Churn Dataset, que pode ser encontrado no Kaggle e disponibilizado por Gaurav Topre.
 
-- **Problema de negócio**: Não é fácil encontrar datasets de plantas industriais do mundo real, com o intuito de alertar sobre a urgência da necessidade das industrias buscarem entender as razões por trás de acidentes e lesões com seus colaboradores, Eduado Magalhães Oliveira compartilhou este dataset para serem extraídos insights e análises que possam ajudar nessa conscientização.
-- **Objetivo**: Explorar os dados, e entender os fatores envolvidos nos acidentes de trabalho.
+- **Problema de negócio**: O Banco ABC é uma compania multinacional que atua na Europa. No setor bancário a retenção de clientes é de suma importância, e é necessário investigar o que leva os clientes a abandonar o serviço.
+- **Objetivo**: Explorar os dados e entender quem são os clientes que estão saindo do banco e possíveis razões para este fato. 
 ### 🏪[Análise RFV (Recência Frequência Valor) - Retail Sales Data](https://github.com/datalopes1/warehouse_rfv/)
 Neste projeto será realizada uma análise do tipo RFV (Recência, Frequência e Valor) com dados que encontrei neste video no Youtube do canal Jie Jenn.
 
