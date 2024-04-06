@@ -13,7 +13,7 @@ Atualmente trabalho como corretor de imóveis e busco uma transição de carreir
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
-## 🏙️ Projetos
+## 🏙️ Projetos em destaque
 ### 🏦 [Churn Analysis - Bank Customer Churn Dataset](https://github.com/datalopes1/bankabc_churn/)
 Neste projeto será realizado o processo de EDA (Exploratory Data Analysis) com foco na análise de Churn a partir do datas ser Bank Customer Churn Dataset, que pode ser encontrado no Kaggle e disponibilizado por Gaurav Topre.
 
@@ -29,6 +29,11 @@ Neste projeto será realizado o processo de EDA (Exploratory Data Analysis) a pa
 
 - **Problema de negócio**: Com dados de vagas de emprego entre 2020 e 2024 o dataset consiste em vagas postadas no site ai-jobs.ai e serve de pananorama para exploração do estado da empregabilidade na área de Data Science.
 - **Objetivo**: Analisar e explorar os dados para compreender as especialidades na área e a progressão de carreira.
+### 🌱 [Dashboard - Case Terra Bela](https://github.com/datalopes1/case_terrabela)
+Este projeto foi feito com base em um conjunto de dados artificial criado por mim com base nas minhas experiências dentro do setor imobiliário, no acompanhamento de métricas e desempenho. 
+
+- **Problema de negócio**: O time de negócios solicitou uma série de relatórios ao time de dados sobre o volume de vendas, perfil dos clientes e desempenho dos corretores de imóveis.
+- **Objetivo**: Criar dashboards que ajudem o time  de negócios a vizualizar o desempenho da imobiliária.
 ### ⚽ [Limpeza e Manipulação de Dados com Dataset FIFA 21](https://github.com/datalopes1/fifa21_datacleaning)
 Neste projeto será feito o processo de limpeza e manipulação a partir do dataset FIFA 21 messy, raw dataset for cleaning/ exploring, que pode ser encontrado no Kaggle, com licensa CC0: Public Domain e enviado por Rachit Toshniwal.
 
