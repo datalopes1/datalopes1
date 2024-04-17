@@ -29,8 +29,8 @@ Neste projeto será realizado o processo de EDA (Exploratory Data Analysis) a pa
 
 - **Problema de negócio**: Com dados de vagas de emprego entre 2020 e 2024 o dataset consiste em vagas postadas no site ai-jobs.ai e serve de pananorama para exploração do estado da empregabilidade na área de Data Science.
 - **Objetivo**: Analisar e explorar os dados para compreender as especialidades na área e a progressão de carreira.
-### 🌱 [Dashboard - Case Terra Bela](https://github.com/datalopes1/case_terrabela)
-Este projeto foi feito com base em um conjunto de dados artificial criado por mim com base nas minhas experiências dentro do setor imobiliário, no acompanhamento de métricas e desempenho. 
+### 🌱 [Dashboard - Case Terra Bela](https://github.com/datalopes1/case_terrabela) 
+Este projeto foi feito com base em um conjunto de dados artificial criado por mim com base nas minhas experiências dentro do setor imobiliário, no acompanhamento de métricas e desempenho. Veja também no [Medium](https://medium.com/@datalopes1/visualizando-o-desempenho-da-imobili%C3%A1ria-terra-bela-bd730dcdd598).
 
 - **Problema de negócio**: O time de negócios solicitou uma série de relatórios ao time de dados sobre o volume de vendas, perfil dos clientes e desempenho dos corretores de imóveis.
 - **Objetivo**: Criar dashboards que ajudem o time  de negócios a vizualizar o desempenho da imobiliária.
