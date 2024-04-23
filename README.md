@@ -24,13 +24,13 @@ Neste projeto será realizada uma análise do tipo RFV (Recência, Frequência e
 
 - **Problema de negócio**: O time de marketing de uma rede varejistas que faz entregas internacionais precisa segmentar os clientes para fazer campanhas e melhorar o relacionamento com eles.
 - **Objetivo**: Realizar uma análise RFV (Recência, Frequência e Valor) para segmentar os clientes utilizando o algoritmo KMeans. 
-### 💽 [EDA - Data Science Salaries 2024](https://github.com/datalopes1/ds_salaries2024_eda)
-Neste projeto será realizado o processo de EDA (Exploratory Data Analysis) a partir do dataset Data Science Salaries 2024, que pode ser encontrado no Kaggle, com licensa Database: Open Database e enviado por Sazidul Islam. 
+### 💸 [Exploratory Data Analysis - Bank Marketing](https://github.com/datalopes1/bank_marketing)
+Este projeto será baseado no Dataset Bank Marketing encontrado na UC Irvine - Machine Learning Repository e disponibilizado por S. Moro, R. Laureano e P. Cortez, e pode ser encontrado [aqui](https://archive.ics.uci.edu/dataset/222/bank+marketing). Veja no [Medium](https://medium.com/@datalopes1/bank-marketing-uma-análise-exploratória-de-dados-640c97df2bdd). 
 
-- **Problema de negócio**: Com dados de vagas de emprego entre 2020 e 2024 o dataset consiste em vagas postadas no site ai-jobs.ai e serve de pananorama para exploração do estado da empregabilidade na área de Data Science.
-- **Objetivo**: Analisar e explorar os dados para compreender as especialidades na área e a progressão de carreira.
+- **Problema de negócio**: Como recém chegado no time de dados, o gestor nos fez algumas solicitações a partir dos dados dessa campanha após requisição do time de marketing para otimizar as próximas campanhas.
+- **Objetivo**: Entender o perfil dos clientes do banco e identificar características que influenciam a aceitação dos produtos oferecidos e avaliar a eficácia da campanha de marketing direto para depósitos a prazo, identificando os melhores canais de contato e o perfil do público-alvo mais receptivo.
 ### 🌱 [Dashboard - Case Terra Bela](https://github.com/datalopes1/case_terrabela) 
-Este projeto foi feito com base em um conjunto de dados artificial criado por mim com base nas minhas experiências dentro do setor imobiliário, no acompanhamento de métricas e desempenho. Veja também no [Medium](https://medium.com/@datalopes1/visualizando-o-desempenho-da-imobili%C3%A1ria-terra-bela-bd730dcdd598).
+Este projeto foi feito com base em um conjunto de dados artificial criado por mim com base nas minhas experiências dentro do setor imobiliário, no acompanhamento de métricas e desempenho. Veja no [Medium](https://medium.com/@datalopes1/visualizando-o-desempenho-da-imobili%C3%A1ria-terra-bela-bd730dcdd598).
 
 - **Problema de negócio**: O time de negócios solicitou uma série de relatórios ao time de dados sobre o volume de vendas, perfil dos clientes e desempenho dos corretores de imóveis.
 - **Objetivo**: Criar dashboards que ajudem o time  de negócios a vizualizar o desempenho da imobiliária.
