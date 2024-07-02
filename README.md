@@ -14,18 +14,3 @@ Atualmente trabalho como corretor de imóveis e busco uma transição de carreir
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-
-## 🏙️ Projetos em Destaque
-### [Análise de Churn no ABC Bank 🏦](https://github.com/datalopes1/bankabc_churn/)
-
-Uma análise em busca de entender o perfil de clientes que abandonam os serviços do Banco ABC. 
-### [Análise RFV da Varejista X 🏪](https://github.com/datalopes1/warehouse_rfv/)
-
-Atendendo as necessidades do time de marketing foi realizada uma segmentação dos clientes da Varejista X.
-### [Analisando Marketing em um Banco 🏢](https://github.com/datalopes1/bank_marketing)
-
-A partir das solicitações do gestor da área de dados, foi feita uma avaliação dos clientes mais propensos a fechar contratos em produtos bancários. Disponível no [Medium](https://medium.com/@datalopes1/bank-marketing-uma-an%C3%A1lise-explorat%C3%B3ria-de-dados-640c97df2bdd).
-
-### [Visualizando o Desempenho de uma Imobiliária 🏡](https://github.com/datalopes1/case_terrabela)
-
-Após solicitação do time de negócios da imobiliária Terra Bela, foram feitas consultas SQL e dashboards para avaliar seu desempenho recente. Texto completo no [Medium](https://medium.com/@datalopes1/visualizando-o-desempenho-da-imobili%C3%A1ria-terra-bela-bd730dcdd598)
