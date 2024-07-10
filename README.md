@@ -2,7 +2,7 @@
 [![Portfolio](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]([https://bit.ly/portfolio_andreluizls1](https://medium.com/@datalopes1)) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreluizls1/) 
 
 ### Sobre mim 🔍
-Tenho 8 anos de experiência no mercado imobiliário e sou graduado em Engenharia de Produção pela UniCatólica de Quixadá, minha cidade no interior do Ceará. Sempre fui apaixonado por saber o porque por trás de bons resultados e naturalmente me senti atraído para área de dados. 
+Tenho 8 anos de experiência no mercado imobiliário e sou graduado em Engenharia de Produção pela UniCatólica de Quixadá, minha cidade no interior do Ceará. Sempre fui apaixonado pela razão por trás de bons resultados, e naturalmente dados a resposta. 
 
 ### Ferramentas ⚒️
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![sql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![tab](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
