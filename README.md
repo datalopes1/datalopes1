@@ -7,7 +7,7 @@ Tenho 8 anos de experiência no mercado imobiliário e sou graduado em Engenhari
 ### Ferramentas ⚒️
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![sql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![tab](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=datalopes1&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datalopes1&layout=compact)
 
 ## Projetos em Destaque 🏗️
 ### [Análise de Churn ABC Bank 🏦](https://github.com/datalopes1/bankabc_churn/)
