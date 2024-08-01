@@ -23,7 +23,7 @@ Com informações sobre defeitos, data de detecção, peça danificada e nível 
 Uma análise exploratória de dados em busca de entender o perfil de clientes que deixam os serviços do Banco ABC.
 
 **Ferramentas utilizadas:** Python, Jupyter Notebook. 
-### 🏡 [Avaliando o Desempenho de uma Imobiliária](https://github.com/datalopes1/case_terrabela) | Texto comploto no [Medium](https://medium.com/@datalopes1/visualizando-o-desempenho-da-imobili%C3%A1ria-terra-bela-bd730dcdd598)
+### 🏡 [Avaliando o Desempenho de uma Imobiliária](https://github.com/datalopes1/case_terrabela) | Texto completo no [Medium](https://medium.com/@datalopes1/visualizando-o-desempenho-da-imobili%C3%A1ria-terra-bela-bd730dcdd598)
 Com base em demandas do time de negócios foi criado um dashboard para analisar o desempenhos dos corretores, o perfil dos clientes e volume geral de vendas. 
 
 **Ferramentas utilizadas:** PostgreSQL, Microsoft Power BI, Microsoft Excel. 
