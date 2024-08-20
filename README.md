@@ -10,32 +10,34 @@ Tenho 8 anos de experiência no mercado imobiliário e sou graduado em Engenhari
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datalopes1&layout=compact)
 
 ## Projetos em Destaque 🏗️
-### 🚲 [Auxiliando os times de Marketing e Pricing em uma Empresa de Delivery](https://github.com/datalopes1/desafio_delivery/)
+### [Auxiliando os times de Marketing e Pricing em uma Empresa de Delivery 🛵](https://github.com/datalopes1/desafio_delivery/)
 Como analista de dados em uma equipe centralizada e que atende diversas áreas recebemos algumas demandas dos times de Marketing, Pricing e do CFO.
-Ferramentas: Python, Jupyter Notebook, SQL.
 
-**Ferramentas utilizadas**: Python, Jupyter Notebook, SQL.
-### 🧑‍🔧 [Avaliando os Defeitos de Produção Industrial](https://github.com/datalopes1/manufacturing_defects)
+**Ferramentas utilizadas**: SQL, Python, Jupyter Notebook.
+
+### [Avaliando os Defeitos de Produção Industrial 🏭](https://github.com/datalopes1/manufacturing_defects)
 Com informações sobre defeitos, data de detecção, peça danificada e nível de gravidade o objetivo é buscar tendências e insights sobre problemas no processo produtivo.
 
 **Ferramentas utilizadas**: Python, Jupyter Notebook.  
-### 🏦 [Analisando o Perfil dos Clientes do Banco ABC](https://github.com/datalopes1/bankabc_churn/)
-Uma análise exploratória de dados em busca de entender o perfil de clientes que deixam os serviços do Banco ABC.
 
-**Ferramentas utilizadas:** Python, Jupyter Notebook. 
-### 🏡 [Avaliando o Desempenho de uma Imobiliária](https://github.com/datalopes1/case_terrabela) | Texto completo no [Medium](https://medium.com/@datalopes1/visualizando-o-desempenho-da-imobili%C3%A1ria-terra-bela-bd730dcdd598)
-Com base em demandas do time de negócios foi criado um dashboard para analisar o desempenhos dos corretores, o perfil dos clientes e volume geral de vendas. 
+### [Avaliando e Otimizando o Campanhas de Marketing Bancário 🏦](https://github.com/datalopes1/bank_marketing_success)
+Com dados baseados em uma campanha de marketing direto através de ligações telefônicas, foi avaliado o desempenho da campanha e feito um modelo de predição dos contatos com sucesso para próximas campanhas.
 
-**Ferramentas utilizadas:** PostgreSQL, Microsoft Power BI, Microsoft Excel. 
-### ✈️ [Predição de Preços de Passagens Aéreas](https://github.com/datalopes1/flight_prices/) 
-Easy My Trip é um site indiano para reserva e compra de passagens aéreas, a partir de seus dados foram investigados fatores que afetam preço de passagens e criado um modelo para previsão de preços.
+**Ferramentas utilizadas**: Python, Jupyter Notebook, Scitkit-learn, LightGBM.
 
-**Ferramentas utilizadas:** Python, Jupyter Notebook, Scikit-learn, XGBoost. 
-### 🐕 [Predição da Probabilidade de Adoção de Pets](https://github.com/datalopes1/pet_adoption)
-Através de uma análise exploratória de dados foram investigadas tendências sobre a adoção de animais em um abrigo, e um feito um modelo de predição de adoção dos animaizinhos.
+### [Avaliando o Desempenho de uma Cafeteria ☕](https://github.com/datalopes1/maven_coffee)
+Com três lojas na cidade de New York a rede de cafeterias Maven Roasters, trouxe através de sua staff a demanda para criação de um dashboard para análise de vendas do primeiro semestre.
 
-**Ferramentas utilizadas:** Python, Jupyter Notebook, Scikit-learn. 
+**Ferramentas utilizadas**: Microsoft Power BI, DAX, Microsoft Excel. 
 
+### [Predizendo o Preço de Imóveis em São Petersburgo 🏠](https://github.com/datalopes1/stpetersburg_prices/)
+A partir de um dataset contendo informações sobre anúncios de imóveis na segunda maior cidade da Russia, São Petersburgo, foi construído um modelo de Machine Learning para predizer preço de imóveis na cidade. 
 
+**Ferrametnas utilizadas**: Python, Jupyter Notebook, Scikit-learn, XGBoost. 
+
+### [Predição da Probabilidade de Adoção de Pets 🐩](https://github.com/datalopes1/pet_adoption)
+Através de uma análise exploratória de dados foram investigadas tendências sobre a adoção de animais em um abrigo, e um feito um modelo de predição de adoção dos animaizinhos. 
+
+**Ferramentas utilizadas**: Python, Jupyter Notebook, Scikit-learn, LightGBM.
 
 
