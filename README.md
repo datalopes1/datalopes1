@@ -25,7 +25,7 @@ Com dados baseados em uma campanha de marketing direto através de ligações te
 
 **Ferramentas utilizadas**: Python, Jupyter Notebook, Scitkit-learn, LightGBM.
 
-### [Avaliando o Desempenho de uma Cafeteria ☕](https://github.com/datalopes1/maven_coffee)
+### [Avaliando o Desempenho de uma Cafeteria ☕](https://github.com/datalopes1/maven_coffee) | [Acesse o dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWFkODJiZWItZjM4Yy00ZjMwLWJkYmItN2JjMTIxZTQ2YmZhIiwidCI6ImJmOWUzNDgwLTkyM2UtNDNmMS04OTE1LTlmMmY3YjY2NTc0MSJ9)
 Com três lojas na cidade de New York a rede de cafeterias Maven Roasters, trouxe através de sua staff a demanda para criação de um dashboard para análise de vendas do primeiro semestre.
 
 **Ferramentas utilizadas**: Microsoft Power BI, DAX, Microsoft Excel. 
