@@ -1,5 +1,5 @@
 ## Olá, sou André Lopes 👨‍💻
-[![Portfolio](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]([https://bit.ly/portfolio_andreluizls1](https://medium.com/@datalopes1)) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreluizls1/)[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/andreluizls1)
+[![Portfolio](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]([https://bit.ly/portfolio_andreluizls1](https://medium.com/@datalopes1))[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreluizls1/)[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/andreluizls1)
 
 ### Sobre mim 🔍
 Bem-vindo ao meu Github! Sou um profissional de Data Science & Analytics apaixonado por investigar os segredos que os dados tem a contar sobre negócios. 
