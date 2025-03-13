@@ -6,6 +6,8 @@ Bem-vindo ao meu Github! Atualmente, Analista de Dados Freelancer e em busca de 
 ### 📌 About me
 Welcome to my Github! I am currently working as a Freelance Data Analyst and looking for new opportunities. I have a degree in Production Engineering and am passionate about processes and solutions. I aim to uncover insights and secrets that data can reveal about businesses.
 
+### 🛠️ Ferramentas
+
 - ⌨️ **Linguagens:** Python & SQL
 - 🪟 **Visualização de Dados:** Microsoft Power BI, Looker Studio, Tableau
 - ☁️ **Cloud:** GCP, Databricks, dbt
