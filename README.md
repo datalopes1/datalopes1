@@ -1,8 +1,8 @@
 # 👨‍💻 André Lopes – Data Analyst & BI Specialist
 
-Welcome to my GitHub! I’m a freelance Data Analyst with a background in Production Engineering and experience turning raw data into actionable insights. Passionate about process optimization and data storytelling, I help businesses uncover what their data has to say.
+Welcome to my Github! I’m a freelance Data Analyst with a background in Production Engineering and experience turning raw data into actionable insights. Passionate about process optimization and data storytelling, I help businesses uncover what their data has to say.
 
-Bem-vindo ao meu GitHub! Atuo como Analista de Dados Freelancer com formação em Engenharia de Produção. Tenho paixão por processos, modelagem de dados e por transformar informações em decisões estratégicas baseadas em dados.
+Bem-vindo ao meu Github! Atuo como Analista de Dados Freelancer com formação em Engenharia de Produção. Tenho paixão por processos, modelagem de dados e por transformar informações em decisões estratégicas baseadas em dados.
 
 ---
 
@@ -31,6 +31,6 @@ Bem-vindo ao meu GitHub! Atuo como Analista de Dados Freelancer com formação e
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Github Stats
 
-![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=datalopes1&show_icons=true&theme=tokyonight)
+![André's Github stats](https://github-readme-stats.vercel.app/api?username=datalopes1&show_icons=true&theme=tokyonight)
