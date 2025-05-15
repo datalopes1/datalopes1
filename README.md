@@ -1,24 +1,36 @@
-# Olá, sou André Lopes 👨‍💻
+# 👨‍💻 André Lopes – Data Analyst & BI Specialist
 
-### 📌 Sobre mim 
-Bem-vindo ao meu Github! Atualmente, Analista de Dados Freelancer e em busca de novas oportunidades. Sou graduado em Engenharia de Produção e apaixonado por processos e soluções, busco mostrar insights e segredos que os dados podem revelar sobre sobre negócios. 
+Welcome to my GitHub! I’m a freelance Data Analyst with a background in Production Engineering and experience turning raw data into actionable insights. Passionate about process optimization and data storytelling, I help businesses uncover what their data has to say.
 
-### 📌 About me
-Welcome to my Github! I am currently working as a Freelance Data Analyst and looking for new opportunities. I have a degree in Production Engineering and am passionate about processes and solutions. I aim to uncover insights and secrets that data can reveal about businesses.
+Bem-vindo ao meu GitHub! Atuo como Analista de Dados Freelancer com formação em Engenharia de Produção. Tenho paixão por processos, modelagem de dados e por transformar informações em decisões estratégicas baseadas em dados.
 
-### 🛠️ Ferramentas
+---
 
-- ⌨️ **Linguagens:** Python & SQL
-- 🪟 **Visualização de Dados:** Microsoft Power BI, Looker Studio, Tableau
-- ☁️ **Cloud:** GCP, Databricks, dbt
+### 🔧 Tools & Technologies
 
-### 📞 Contatos
-- 📩 **E-mail**: datalopes1@proton.me
-- 💻 **LinkedIn**: https://www.linkedin.com/in/datalopes1/
-- 🖼️ **Porfólio**: https://datalopes1.github.io/
-- 📱 **Telefone**: +55 88 999934237
+- **Languages**: Python, SQL  
+- **Data Visualization**: Power BI, Looker Studio, Tableau  
+- **ETL & Cloud**: dbt, GCP, Databricks  
 
-### 📈 Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=datalopes1&show_icons=true&theme=tokyonight)
+---
 
+### 🚀 Featured Projects
 
+- 📦 [Um Data Warehouse para o Delivery Center](https://github.com/datalopes1/deliverycenter_dwh)
+- 📈 [Predição de Churn na Telco Telecom](https://github.com/datalopes1/telecom_churn)
+- 📊 [Análise do Mercado Imobiliário de Fortaleza/CE](https://github.com/datalopes1/pricing_imoveis/)
+
+---
+
+### 📬 Contact
+
+- 📧 Email: datalopes1@proton.me  
+- 💼 LinkedIn: [/in/datalopes1](https://www.linkedin.com/in/datalopes1/)  
+- 🌐 Portfolio: [datalopes1.github.io](https://datalopes1.github.io)  
+- 📱 WhatsApp: +55 88 99993-4237  
+
+---
+
+### 📈 GitHub Stats
+
+![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=datalopes1&show_icons=true&theme=tokyonight)
